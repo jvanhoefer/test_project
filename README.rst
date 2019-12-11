@@ -15,5 +15,5 @@ ToDo
 
 and so forth
 
-.. image:: https://travis-ci.com/jvanhoefer/test_project.svg?branch=master
+.. |build| image:: https://travis-ci.com/jvanhoefer/test_project.svg?branch=master
     :target: https://travis-ci.com/jvanhoefer/test_project
