@@ -15,5 +15,5 @@ ToDo
 
 and so forth
 
-..|build| image:: https://travis-ci.com/seffnet/seffnet.svg?branch=master
+.. |build| image:: https://travis-ci.com/seffnet/seffnet.svg?branch=master
     :target https://travis-ci.com/seffnet/seffnet
