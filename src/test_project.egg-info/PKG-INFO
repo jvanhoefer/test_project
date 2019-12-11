@@ -1,0 +1,44 @@
+Metadata-Version: 1.2
+Name: test-project
+Version: 0.0.1.dev0
+Summary: Test project for software development workshop
+Home-page: https://github.com/jvanhoefer/test_project
+Author: Jakob Vanhoefer
+Author-email: test@test.com
+Maintainer: Jakob Vanhoefer
+Maintainer-email: test@test.com
+License: MIT
+Download-URL: https://github.com/jvanhoefer/test_project
+Project-URL: Bug Tracker, https://github.com/jvanhoefer/test_project/issues
+Project-URL: Source Code, https://github.com/jvanhoefer/test_project
+Project-URL: Documentation, https://github.com/jvanhoefer/test_project
+Description: Test Project
+        =============
+        
+        test test test tes test test test
+        
+        Installation
+        ------------
+        
+        ToDo
+        
+        Usage
+        -----
+        
+        ToDo
+        
+        and so forth
+        
+Keywords: Code,Test Project,Ceterum censeo cartaginem esse delendam
+Platform: UNKNOWN
+Classifier: Development Status :: 1 - Planning
+Classifier: Environment :: Console
+Classifier: Intended Audience :: Science/Research
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3 :: Only
+Classifier: Topic :: Scientific/Engineering :: Bio-Informatics
